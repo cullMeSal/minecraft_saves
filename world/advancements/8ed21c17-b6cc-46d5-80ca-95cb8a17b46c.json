@@ -2570,27 +2570,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/stone_bricks": {
+  "minecraft:recipes/misc/blue_dye_from_cornflower": {
     "criteria": {
-      "has_stone": "2024-05-01 10:04:43 +0700"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/stone_brick_slab_from_stone_stonecutting": {
-    "criteria": {
-      "has_stone": "2024-05-01 10:04:43 +0700"
+      "has_cornflower": "2024-05-01 09:18:12 +0700"
     },
     "done": true
   },
   "minecraft:recipes/building_blocks/dye_blue_wool": {
     "criteria": {
       "has_needed_dye": "2024-05-01 09:18:13 +0700"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/stone_brick_stairs_from_stone_stonecutting": {
-    "criteria": {
-      "has_stone": "2024-05-01 10:04:43 +0700"
     },
     "done": true
   },
@@ -2603,12 +2591,6 @@
   "minecraft:recipes/misc/cyan_dye": {
     "criteria": {
       "has_blue_dye": "2024-05-01 09:18:13 +0700"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/birch_planks": {
-    "criteria": {
-      "has_logs": "2024-05-01 09:44:30 +0700"
     },
     "done": true
   },
@@ -2630,15 +2612,63 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/stone_slab_from_stone_stonecutting": {
+  "minecraft:recipes/decorations/blue_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_blue_dye": "2024-05-01 09:18:13 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/magenta_dye_from_blue_red_pink": {
+    "criteria": {
+      "has_blue_dye": "2024-05-01 09:18:13 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_blue_bed": {
+    "criteria": {
+      "has_needed_dye": "2024-05-01 09:18:13 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/magenta_dye_from_blue_red_white_dye": {
+    "criteria": {
+      "has_blue_dye": "2024-05-01 09:18:13 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/birch_planks": {
+    "criteria": {
+      "has_logs": "2024-05-01 09:44:30 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/birch_wood": {
+    "criteria": {
+      "has_log": "2024-05-01 09:44:30 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_bricks": {
     "criteria": {
       "has_stone": "2024-05-01 10:04:43 +0700"
     },
     "done": true
   },
-  "minecraft:recipes/decorations/blue_stained_glass_pane_from_glass_pane": {
+  "minecraft:recipes/building_blocks/stone_brick_slab_from_stone_stonecutting": {
     "criteria": {
-      "has_blue_dye": "2024-05-01 09:18:13 +0700"
+      "has_stone": "2024-05-01 10:04:43 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_stairs_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2024-05-01 10:04:43 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_slab_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2024-05-01 10:04:43 +0700"
     },
     "done": true
   },
@@ -2654,24 +2684,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/magenta_dye_from_blue_red_pink": {
-    "criteria": {
-      "has_blue_dye": "2024-05-01 09:18:13 +0700"
-    },
-    "done": true
-  },
-  "minecraft:recipes/transportation/carrot_on_a_stick": {
-    "criteria": {
-      "has_carrot": "2024-05-01 10:09:28 +0700"
-    },
-    "done": true
-  },
-  "minecraft:story/shiny_gear": {
-    "criteria": {
-      "diamond_boots": "2024-05-01 10:44:12 +0700"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/chiseled_stone_bricks_stone_from_stonecutting": {
     "criteria": {
       "has_stone": "2024-05-01 10:04:43 +0700"
@@ -2681,24 +2693,6 @@
   "minecraft:recipes/building_blocks/stone_stairs_from_stone_stonecutting": {
     "criteria": {
       "has_stone": "2024-05-01 10:04:43 +0700"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/birch_wood": {
-    "criteria": {
-      "has_log": "2024-05-01 09:44:30 +0700"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/blue_dye_from_cornflower": {
-    "criteria": {
-      "has_cornflower": "2024-05-01 09:18:12 +0700"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/dye_blue_bed": {
-    "criteria": {
-      "has_needed_dye": "2024-05-01 09:18:13 +0700"
     },
     "done": true
   },
@@ -2726,12 +2720,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/magenta_dye_from_blue_red_white_dye": {
-    "criteria": {
-      "has_blue_dye": "2024-05-01 09:18:13 +0700"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/stone_brick_walls_from_stone_stonecutting": {
     "criteria": {
       "has_stone": "2024-05-01 10:04:43 +0700"
@@ -2741,6 +2729,18 @@
   "minecraft:recipes/building_blocks/stone_stairs": {
     "criteria": {
       "has_stone": "2024-05-01 10:04:43 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/carrot_on_a_stick": {
+    "criteria": {
+      "has_carrot": "2024-05-01 10:09:28 +0700"
+    },
+    "done": true
+  },
+  "minecraft:story/shiny_gear": {
+    "criteria": {
+      "diamond_boots": "2024-05-01 10:44:12 +0700"
     },
     "done": true
   },
